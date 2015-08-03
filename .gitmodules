@@ -1,0 +1,9 @@
+[submodule "freetype2"]
+	path = freetype2
+	url = https://github.com/Enseed/freetype2.git
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/Enseed/libpng
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/Enseed/zlib.git

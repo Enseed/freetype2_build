@@ -29,3 +29,8 @@
 **/Debug/
 **/Release/
 *.ipch
+*.sdf
+*.opensdf
+**/.vs/
+**/Debug Static/
+**/Release Static/

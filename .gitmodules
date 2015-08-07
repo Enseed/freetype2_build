@@ -7,3 +7,6 @@
 [submodule "zlib"]
 	path = zlib
 	url = https://github.com/Enseed/zlib.git
+[submodule "build/staging"]
+	path = build/staging
+	url = https://github.com/Enseed/freetype2_bin.git
